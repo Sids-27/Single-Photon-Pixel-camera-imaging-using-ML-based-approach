@@ -1,5 +1,5 @@
 # Single-Photon-Pixel-camera-imaging-using-ML-based-approach
-# Alzheimer's Diagnosis Using Machine Learning
+
 
 ## Project Overview
 
